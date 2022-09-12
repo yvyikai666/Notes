@@ -1,0 +1,122 @@
+{
+  "main": {
+    "id": "d14d29e10cbc158e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b7d0fb23e9f65d9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Inbox/双馈风力发电机.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "221b8413d03ee8c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2641bb900a4c458d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07b7bcd352c649e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "531c8a5a788440b0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c61b5ac796849b39",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 202
+  },
+  "right": {
+    "id": "9d7aca8770707069",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1e3fb07da3a62c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc67b043db3ab8a7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Inbox/双馈风力发电机.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d93c88febfa9c0f0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Inbox/双馈风力发电机.md"
+              }
+            }
+          },
+          {
+            "id": "37eb4ea9389bdfd6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "6b7d0fb23e9f65d9",
+  "lastOpenFiles": [
+    "Inbox/双馈风力发电机.md",
+    "未命名.md",
+    "未命名 1.md"
+  ]
+}

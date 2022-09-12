@@ -1,0 +1,14 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "Attachments",
+  "newFileFolderPath": "Inbox",
+  "strictLineBreaks": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "vimMode": false,
+  "communityPluginSortOrder": "download"
+}

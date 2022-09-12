@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "8a0a2f947128330d",
+    "type": "split",
+    "children": [
+      {
+        "id": "56a5f9de584e7849",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "计算机/Python笔记.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb154d78445619da",
+    "type": "split",
+    "children": [
+      {
+        "id": "457faf084181dc04",
+        "type": "tabs",
+        "dimension": 60.77922077922078,
+        "children": [
+          {
+            "id": "37c479b5e8b95621",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6fa201da6e47fc63",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8819181c1ea14d95",
+        "type": "tabs",
+        "dimension": 39.22077922077922,
+        "children": [
+          {
+            "id": "abf7bec99ada1724",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "计算机/Python笔记.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243
+  },
+  "right": {
+    "id": "f88234cb82e0c5fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e82503d437ac93b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffa54cfa05554679",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "计算机/Python笔记.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8dad292a284258a6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "计算机/Python笔记.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "56a5f9de584e7849",
+  "lastOpenFiles": [
+    "计算机/Python笔记.md",
+    "计算机/计算机二级选择题知识点.md",
+    "电气专业/模电.md"
+  ]
+}
