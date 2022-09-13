@@ -1,6 +1,6 @@
 # Linux
 
-<img src="Linux.assets/linux.jpg" alt="linux"  />
+<img src="Linux基础.assets/linux.jpg" alt="linux"  />
 
 [TOC]
 
@@ -598,7 +598,7 @@ runlevel
 
 ## 系统目录结构
 
-![img](Linux.assets/d0c50-linux2bfile2bsystem2bhierarchy.jpg)
+![img](Linux基础.assets/d0c50-linux2bfile2bsystem2bhierarchy.jpg)
 
 以下是对这些目录的解释：
 
@@ -792,7 +792,7 @@ sudo systemctl restart docker
 
 4. docker version验证是否启动了（客户端和服务端都有）
 
-   <img src="Linux.assets/image-20220710095456417.png" alt="image-20220710095456417" style="zoom:80%;" />
+   <img src="Linux基础.assets/image-20220710095456417.png" alt="image-20220710095456417" style="zoom:80%;" />
 
 5. docker镜像的用法docker pull infoslack/dvwa
 
@@ -804,11 +804,11 @@ sudo systemctl restart docker
 
 8. docker ps 查看
 
-   ![image-20220710095912035](Linux.assets/image-20220710095912035.png)
+   ![image-20220710095912035](Linux基础.assets/image-20220710095912035.png)
 
 9. 打开浏览器输入ip地址出现
 
-   <img src="Linux.assets/image-20220710095531352.png" alt="image-20220710095531352" style="zoom:50%;" />
+   <img src="Linux基础.assets/image-20220710095531352.png" alt="image-20220710095531352" style="zoom:50%;" />
 
 
 
