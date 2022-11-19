@@ -53,9 +53,13 @@ python -v
 2. conda
 
 ```shell
-conda create demo
+conda create -n demo python=3.10 numpy
 conda active demo
-python -v
+
+conda activate demo  # 激活
+conda info --envs  # 查看环境列表和当前活动环境
+conda env list  # 这个也可以
+conda env remove -n yourEnv  # 移除目标环境
 ```
 
 ## 将脚本打包成应用
