@@ -62,9 +62,44 @@ catkin_make
 source devel/setup.bash
 ```
 
+## hello world尝试
+
+```shell
+mkdir -p demo/src
+cd demo
+catkin_make
+# 创建工作空间并初始化
+
+cd src
+catkin_create_pkg hello_world roscpp rospy std_msgs
+# 创建功能包并添加依赖那个hello_world就是一个功能包
+
+# 编辑CMakeList.txt
+add_executable(${PROJECT_NAME}_node src/hello.cpp)  # 136行
+
+target_link_libraries(${PROJECT_NAME}_node
+  ${catkin_LIBRARIES}
+)  # 149行
+
+# 进入工作空间并编译
+cd demo
+catkin_make
+
+# 运行
+roscore
+cd demo
+source  ./devel/setup.bash
+rosrun hello_world hello_world_node
+
+```
 
 
 
+## rosbag
+
+可以录制操作或者回放操作
+
+ 
 
 
 
