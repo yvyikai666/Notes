@@ -95,6 +95,14 @@ rosrun hello_world hello_world_node
 
 
 
+### 安装一个**Terminator**终端
+
+```shell
+sudo apt install terminator
+```
+
+
+
 ## rosbag
 
 可以录制操作或者回放操作
