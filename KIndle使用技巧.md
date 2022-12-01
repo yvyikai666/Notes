@@ -4,7 +4,7 @@
 
 1. 将epub使用bandzip解压
 
-2. 将OEBPS文件夹下的图片使用Caesium压缩大概80%在kindle上都是看不出来的
+2. 将OEBPS文件夹或images文件夹下的图片使用Caesium压缩大概80%在kindle上都是看不出来的
 
 3. 替换掉OEBPS中的图片
 
@@ -26,3 +26,7 @@
 
 1. ePUBee整站电子书（绝版） 432G：[阿里云盘分享 (aliyundrive.com)](https://www.aliyundrive.com/s/W5eZauYsczb)
 2. zlibrary（tor或tg）
+
+## 有时候epub的文件无法正常推送或者乱码
+
+用 Sigil 打开 EPUB 文件，依次点击菜单【工具（Tools）→ HTML 重新格式化（Reformat HTML）→ 改进所有 HTML 文件（Mend All HTML Files）】，保存再推送应该能解决这个问题。
