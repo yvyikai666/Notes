@@ -22,6 +22,10 @@
 
 可以在打开一个终端输入`rqt_graph`查看节点关系和话题列表。
 
+## ros文件工程结构
+
+![image-20221204194653821](ROS课程.assets/image-20221204194653821.png)
+
 ## 新建工作空间目录
 
 ```bash
@@ -290,6 +294,16 @@ sudo apt install terminator
       也没有任何问题了
 
 ## 作业
+
+launch文件：
+
+```shell
+<launch>
+    <node pkg="helloWorld" type="haha_node" name="hello" output="screen" />
+    <node pkg="turtlesim" type="turtlesim_node" name="t1"/>
+    <node pkg="turtlesim" type="turtle_teleop_key" name="key1" />
+</launch>
+```
 
 ![image-20221203212115283](ROS课程.assets/image-20221203212115283.png)
 
